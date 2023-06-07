@@ -13,4 +13,7 @@ public void sum(string str)
  public void division(string str)
  {
  return;
-}
+ }
+public string equal(string str)
+ {
+ return "";
